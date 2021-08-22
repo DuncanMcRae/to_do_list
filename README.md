@@ -17,4 +17,9 @@ Programming to do list
   
 
 
-#
+# RPi AND WORKFLOW LEARNING
+* poetry
+* pip-tools
+* pyenv
+* conda?
+* 
