@@ -13,6 +13,8 @@ Programming to do list
 # VORF CREATOR
 # WEB APPS
   Have a web-app server offshore (RPi?) that can be accessed over the network. The web-apps could be output on different ports. Check out Streamlit for a simple web-app generation. Otherwise, flask or django. Dashboards for none user-input data using something like Streamlit or dash.
+  https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace
+  
 
 
 #
